@@ -36,8 +36,7 @@ experiments/
   exp2_threshold.py              finding 2
   exp3_acquisition.py            finding 3
   exp4_experience.py             finding 4
-paper/                           LaTeX source and PDF
-```
+
 
 ## Running
 

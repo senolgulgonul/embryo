@@ -150,7 +150,7 @@ optional; the notebook reproduces everything on its own.
 
 ## Citation
 
-Paper 1 preprint will be linked here; arXiv submission pending.
+Paper 1: Artificial Life, Manuscript ID is ARTL-2026-0187.
 Paper 2: Adaptive Behavior, Manuscript ID AB-26-0306.
 
 ## License
